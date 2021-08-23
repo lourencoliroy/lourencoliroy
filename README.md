@@ -7,11 +7,16 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 🤝 Connect with me:
+**![website](https://lourencoliroy.github.io) | ![email](lourencoliroy@me.com)**
+
 
 <a href="https://www.linkedin.com/in/lourencoliroy"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Liroy Lourenco | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/lourencoliroy"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Liroy Lourenco | Instagram" width="21px"/></a>
-<a href="https://twitter.com/lourencoliroy"><img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.PXTov9TveYX3Upu592UOygHaHa%26pid%3DApi&f=1" alt="Liroy Lourenco | Twitter" width="21px"/></a>
+<a href="https://twitter.com/lourencoliroy"><img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._Ujco6PWCgH_UJfPXtPafAHaFj%26pid%3DApi&f=1" alt="Liroy Lourenco | Twitter" width="21px"/></a>
 </br>
+<a href="https://orcid.org/0000-0003-4294-8628"><img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.honVXVcy2smBfSf7QsbVbgHaHa%26pid%3DApi&f=1" alt="Liroy Lourenco | Orcid" width="21px"/></a>
+</br>
+
 
 
 
