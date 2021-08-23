@@ -1,3 +1,1 @@
-https://github.com/lourencoliroy/lourencoliroy/blob/main/Liroy%20lourenco.
-
-<img src=”https://github.com/lourencoliroy/lourencoliroy/blob/main/Liroy%20lourenco..png" alt=”my banner”>
+![Liroy lourenco](https://user-images.githubusercontent.com/65755533/130381963-054c30bf-f0a0-4650-9597-7acea789792f.png)
