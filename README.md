@@ -10,10 +10,10 @@
 **[website](https://lourencoliroy.github.io) | [email](lourencoliroy@me.com)**
 
 
-<a href="https://www.linkedin.com/in/lourencoliroy"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Liroy Lourenco | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/lourencoliroy"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Liroy Lourenco | Instagram" width="21px"/></a>
-<a href="https://twitter.com/lourencoliroy"><img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Ftwitter-logo-PNG-free-PNG-Images_79864&psig=AOvVaw3f1dLRwWQUGFPD_dYSbzNP&ust=1629773451331000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICuibmRxvICFQAAAAAdAAAAABAD" alt="Liroy Lourenco | Twitter" width="21px"/></a>
-<a href="https://orcid.org/0000-0003-4294-8628"><img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.honVXVcy2smBfSf7QsbVbgHaHa%26pid%3DApi&f=1" alt="Liroy Lourenco | Orcid" width="21px"/></a>
+<a href="https://www.linkedin.com/in/lourencoliroy"><img align="right" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Liroy Lourenco | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/lourencoliroy"><img align="right" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Liroy Lourenco | Instagram" width="21px"/></a>
+<a href="https://twitter.com/lourencoliroy"><img align="right" src="https://toppng.com/uploads/preview/twitter-logo-11549680523gyu1fhgduu.png" alt="Liroy Lourenco | Twitter" width="21px"/></a>
+<a href="https://orcid.org/0000-0003-4294-8628"><img align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.honVXVcy2smBfSf7QsbVbgHaHa%26pid%3DApi&f=1" alt="Liroy Lourenco | Orcid" width="21px"/></a>
 
 
 
