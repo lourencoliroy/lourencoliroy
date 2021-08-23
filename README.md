@@ -6,16 +6,15 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### 🤝 Connect with me:
+### Connect:
 **[website](https://lourencoliroy.github.io) | [email](lourencoliroy@me.com)**
 
 
 <a href="https://www.linkedin.com/in/lourencoliroy"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Liroy Lourenco | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/lourencoliroy"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Liroy Lourenco | Instagram" width="21px"/></a>
-<a href="https://twitter.com/lourencoliroy"><img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._Ujco6PWCgH_UJfPXtPafAHaFj%26pid%3DApi&f=1" alt="Liroy Lourenco | Twitter" width="21px"/></a>
-</br>
+<a href="https://twitter.com/lourencoliroy"><img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Ftwitter-logo-PNG-free-PNG-Images_79864&psig=AOvVaw3f1dLRwWQUGFPD_dYSbzNP&ust=1629773451331000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICuibmRxvICFQAAAAAdAAAAABAD" alt="Liroy Lourenco | Twitter" width="21px"/></a>
 <a href="https://orcid.org/0000-0003-4294-8628"><img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.honVXVcy2smBfSf7QsbVbgHaHa%26pid%3DApi&f=1" alt="Liroy Lourenco | Orcid" width="21px"/></a>
-</br>
+
 
 
 
