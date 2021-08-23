@@ -7,7 +7,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 🤝 Connect with me:
-**![website](https://lourencoliroy.github.io) | ![email](lourencoliroy@me.com)**
+**[website](https://lourencoliroy.github.io) | [email](lourencoliroy@me.com)**
 
 
 <a href="https://www.linkedin.com/in/lourencoliroy"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Liroy Lourenco | LinkedIn" width="21px"/></a>
